@@ -5,7 +5,7 @@
 - Mathematician (BSc) and PhD candidate 🧮🎓
 - AI student 🧠
 - Developer and Data Scientist in training 💻📊
-- Assistant Professor at the University of Rosario, Argentina 👨🏻‍🏫
+- Assistant Professor at the National University of Rosario (UNR), Argentina 👨🏻‍🏫
 
 # Skills
 
