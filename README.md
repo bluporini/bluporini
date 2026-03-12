@@ -1,13 +1,11 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Brian </h1>
 
-- Mathematician (BSc) 🧮
-- Data Analyst 📊
-- AI Student 🧠
-- Developer in Training 💻
-
 # About me
 
-Mathematician with a strong interest in software development and data analysis. I enjoy solving problems in computational and data-driven environments using mathematical and programming tools.
+- Mathematician (BSc) and PhD candidate 🧮🎓
+- AI student 🧠
+- Developer and Data Scientist in training 💻📊
+- Assistant Professor at the University of Rosario, Argentina 👨🏻‍🏫
 
 # Skills
 
@@ -52,3 +50,9 @@ IDEs
 <a href="https://www.linkedin.com/in/brianluporini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
+# GitHub Stats
+
+<p align="center">
+  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bluporini&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluporini&layout=compact&theme=radical" /></a>
+</p>
