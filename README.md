@@ -15,6 +15,7 @@ Lenguages
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85.svg?logo=haskell&logoColor=white&style=for-the-badge"></a>
 </p>
 
 Database
@@ -28,12 +29,14 @@ Tools and Technologies
 <p>
 <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black&style=for-the-badge"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="#"><img alt="SageMath" src="https://img.shields.io/badge/SageMath-000000.svg?logo=sagemath&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Scilab" src="https://img.shields.io/badge/Scilab-CD1925.svg?logo=scilab&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737.svg?logo=mathworks&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="GNU Octave" src="https://img.shields.io/badge/Octave-0079C1.svg?logo=gnu-octave&logoColor=white&style=for-the-badge"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
+
 </p>
 
 IDEs
