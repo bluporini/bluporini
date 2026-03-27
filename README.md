@@ -52,7 +52,10 @@ IDEs
 
 # GitHub Stats
 
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluporini&theme=github_dark
+
 <p align="center">
-  <a href="#"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bluporini&show_icons=true&theme=radical" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluporini&layout=compact&theme=radical" /></a>
+  <a href="#"><img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluporini&theme=github_dark" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluporini&theme=github_dark" /></a>
 </p>
+
