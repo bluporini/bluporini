@@ -52,8 +52,6 @@ IDEs
 
 # GitHub Stats
 
-http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluporini&theme=github_dark
-
 <p align="center">
   <a href="#"><img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluporini&theme=github_dark" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluporini&theme=github_dark" /></a>
