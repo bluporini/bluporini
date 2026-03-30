@@ -15,7 +15,7 @@ Lenguages
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-5D4F85.svg?logo=haskell&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="Racket" src="https://img.shields.io/badge/Racket-9F1D20.svg?logo=racket&logoColor=white&style=for-the-badge"></a>
 </p>
 
 Database
@@ -34,7 +34,7 @@ Tools and Technologies
 <a href="#"><img alt="Scilab" src="https://img.shields.io/badge/Scilab-CD1925.svg?logo=scilab&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737.svg?logo=mathworks&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="GNU Octave" src="https://img.shields.io/badge/Octave-0079C1.svg?logo=gnu-octave&logoColor=white&style=for-the-badge"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
 
 </p>
