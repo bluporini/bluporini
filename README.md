@@ -44,11 +44,3 @@ IDEs
 <a href="https://github.com/bluporini" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/brianluporini/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-
-# GitHub Stats
-
-<p align="center">
-  <a href="#"><img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluporini&theme=github_dark" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img alt="Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluporini&theme=github_dark" /></a>
-</p>
-
