@@ -3,7 +3,7 @@
 # About me
 
 - Mathematician (BSc) and PhD candidate 🧮🎓
-- AI student 🧠
+- Computer Science and AI student 🧠
 - Developer and Data Scientist in training 💻📊
 - Assistant Professor at the National University of Rosario (UNR), Argentina 👨🏻‍🏫
 
@@ -11,40 +11,32 @@
 
 Lenguages
 
-<p>
-<a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=latex&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Racket" src="https://img.shields.io/badge/Racket-9F1D20.svg?logo=racket&logoColor=white&style=for-the-badge"></a>
-</p>
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 Database
 
-<p>
-<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Tools and Technologies
 
-<p>
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black&style=for-the-badge"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img alt="SageMath" src="https://img.shields.io/badge/SageMath-000000.svg?logo=sagemath&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Scilab" src="https://img.shields.io/badge/Scilab-CD1925.svg?logo=scilab&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737.svg?logo=mathworks&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="GNU Octave" src="https://img.shields.io/badge/Octave-0079C1.svg?logo=gnu-octave&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white&style=for-the-badge"></a>
-
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SageMath](https://img.shields.io/badge/SageMath-000000?style=for-the-badge&logo=sagemath&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-CD1925?style=for-the-badge&logo=scilab&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=for-the-badge&logo=gnu-octave&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 IDEs
 
-<p>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white&style=for-the-badge"></a>
-</p>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 # Where to find me
 
